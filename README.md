@@ -1,4 +1,4 @@
-# PSE Assignment
+# Premier School Exhibition Assignment
 
 A simple front-end assignment project built using **HTML** and **CSS**, and deployed on **Vercel**.
 
